@@ -1,0 +1,9 @@
+Clickerino/bin/
+Clickerino/obj/
+Gma.UserActivityMonitor/bin/
+Gma.UserActivityMonitor/obj/
+*.csproj.user
+*.sln.user
+Output/
+.git/
+.vs/
